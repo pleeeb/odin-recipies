@@ -1,0 +1,16 @@
+.descrip {
+    color: cornflowerblue;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+ul li {
+    color: blueviolet;
+    font-size: 18px;
+    text-align: center;
+}
+
+ol li {
+    color: darkred;
+    font-size: 20px;
+}
